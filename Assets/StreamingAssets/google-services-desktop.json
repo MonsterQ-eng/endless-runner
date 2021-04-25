@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506568524788",
+    "firebase_url": "https://pixeladdict-52506408.firebaseio.com",
+    "project_id": "pixeladdict-52506408",
+    "storage_bucket": "pixeladdict-52506408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506568524788:android:bb675d76db3993eec0afa1",
+        "android_client_info": {
+          "package_name": "com.HomemadeGames.TicTacBoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506568524788-4pram4i41utujb0cbc0samkro3ervqmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBICjr4oma6uOecPHtostnaU1kOGElH6Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506568524788-4pram4i41utujb0cbc0samkro3ervqmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
